@@ -176,6 +176,7 @@ footer {
     header {
         padding-bottom: 20px;
         margin: 0;
+        width: 100%;
     }
     #showcase {
         background: url('../images/back.webp') no-repeat;
